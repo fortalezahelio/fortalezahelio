@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on technology projects 
 - 📫 How to reach me 
 https://www.facebook.com/helio.martins.775
+https://www.linkedin.com/in/helio-martins-0ba65917
 <!---
 fortalezahelio/fortalezahelio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
